@@ -1,0 +1,38 @@
+body{
+    width: 100%;
+}
+.div{
+    text-align: center;
+}
+
+.names{
+    display: flex;
+    padding: 10px;
+
+}
+
+.number{
+    display: flex;
+    padding: 10px;
+}
+
+.password{
+    display: flex;
+    padding: 10px;
+}
+
+
+
+.line1{
+    padding-right: 30px;
+}
+
+.line2{
+    padding-bottom: 20px;
+}
+
+button{
+    cursor: pointer;
+}
+
+
